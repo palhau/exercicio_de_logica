@@ -42,7 +42,7 @@ def enchendo_galao():
 
     garrafas_usadas = [filtro_garrafas for filtro_garrafas in garrafas_usadas if filtro_garrafas != 0]
 
-    print(f'\n Resposta: {garrafas_usadas}, sobra {sobra}L')
+    print(f'\nResposta: {garrafas_usadas}, sobra {sobra}L')
 
 
 if __name__ == '__main__':
